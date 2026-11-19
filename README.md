@@ -1,0 +1,1 @@
+O Merge Sort é um algoritmo de ordenação baseado na estratégia Dividir para Conquistar (Divide and Conquer). Seu funcionamento consiste em dividir um vetor em partes menores, ordenar essas partes e depois combiná-las até obter todos os elementos em ordem.
